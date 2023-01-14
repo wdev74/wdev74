@@ -8,9 +8,9 @@ I wish you good luck in the process of visiting my profile.
   
    ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=wdev74)
 
-   ![My Github Status](https://github-readme-stats.vercel.app/api?username=wdev74&count_private=true&show_icons=true&theme=ayu-mirage)
+   ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api?username=wdev74&count_private=true&show_icons=true&theme=ayu-mirage)
 
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wdev74&layout=compact&theme=ayu-mirage&langs_count=8)
+   ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wdev74&layout=compact&theme=ayu-mirage&langs_count=8)
 </div>
 
 
